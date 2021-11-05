@@ -1,0 +1,44 @@
+body {
+background-color: wheat;
+}
+
+#fotoCurriculum {
+    display:block;
+    margin:auto;
+    width: 140px; height: 170px
+}
+
+#titulo {
+    text-align: center;
+    color: white;
+    background-color: #0F055E;
+}
+
+h2 {
+    background-color: #C0E6FF; 
+    color: #0F055E;
+}
+
+#finalPagina {
+    text-align: center;
+    color: white;
+    background-color:#0F055E;
+    font-size: 22px;
+    height: 50px; 
+}
+
+.margin1 {
+    margin: 40px;
+}
+
+.margin2 {
+    margin: 80px
+}
+
+section {
+    line-height: 8px;
+}
+
+#enLinea {
+    display: inline-block
+}
