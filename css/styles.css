@@ -1,17 +1,52 @@
+header {
+    background-image: url(https://i.pinimg.com/originals/fd/ac/06/fdac064d4564c915dec9e1ed103e9cc0.jpg);
+}
+
 body {
-background-color: wheat;
+background-color:rgba(245, 245, 245, 0.659);
 }
 
 #fotoCurriculum {
-    display:block;
     margin:auto;
-    width: 140px; height: 170px
+    display: block;
+    width: 140px; height: 170px;
+}
+
+#formatoTitulo {
+    background-color: #0F055E;
+    padding: 0; 
 }
 
 #titulo {
-    text-align: center;
+    color: white;
+    display:inline;
+    text-align: left;
+    padding: 0;
+}
+
+a {
+    text-decoration:none;
+    color:#ffffff;
+    text-decoration: underline;
+}
+
+a:visited {
+   text-decoration: none; 
+   color: #9efaef;
+}
+
+a:active {
+    text-decoration:none;
+    color:#ff0000;
+}
+
+#otroHtml {
+    display:inline;
+    text-align:right;
     color: white;
     background-color: #0F055E;
+    padding: 0;
+    margin: 50px 600px;
 }
 
 h2 {
@@ -32,7 +67,7 @@ h2 {
 }
 
 .margin2 {
-    margin: 80px
+    margin: 80px;
 }
 
 section {
@@ -40,5 +75,20 @@ section {
 }
 
 #enLinea {
-    display: inline-block
+    display: inline-block;
+}
+
+#body2 {
+    background-image: url(https://i.pinimg.com/originals/fd/ac/06/fdac064d4564c915dec9e1ed103e9cc0.jpg)
+}
+
+#sobreMi {
+    background-color:#0F055E;
+    text-align: center;
+    color: white
+}
+
+#inicio {
+    font-size: 27px;
+
 }
