@@ -78,6 +78,10 @@ section {
     display: inline-block;
 }
 
+p, h1, h2, li {
+    font-family: 'Playfair Display', serif;
+}
+
 #body2 {
     background-image: url(https://i.pinimg.com/originals/fd/ac/06/fdac064d4564c915dec9e1ed103e9cc0.jpg)
 }
